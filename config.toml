@@ -9,10 +9,8 @@ buildFuture = false
 buildExpired = false
 
 [build]
-noChmod = true
-noTimes = true
-writeStats = false  # 禁用资源统计生成
-relativeURLs = true  # 使用相对路径解决部署问题
+publish = "public"
+command = "hugo --gc --minify"
 
 [minify]
 disableXML = true
