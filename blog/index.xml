@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on ExampleSite</title>
+    <link>https://luoqigong.github.io/myblog.github.io/blog/</link>
+    <description>Recent content in Blogs on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://luoqigong.github.io/myblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://luoqigong.github.io/myblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Jul 2025 20:57:10 +0800</lastBuildDate>
+    <atom:link href="https://luoqigong.github.io/myblog.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客文章 | My First Blog Post</title>
+      <link>https://luoqigong.github.io/myblog.github.io/blog/%E6%B5%8B%E8%AF%95%E6%96%B0%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Sun, 13 Jul 2025 20:57:10 +0800</pubDate>
+      <guid>https://luoqigong.github.io/myblog.github.io/blog/%E6%B5%8B%E8%AF%95%E6%96%B0%E6%A8%A1%E6%9D%BF/</guid>
+      <description>这是我使用Hugo创建的第一篇博客文章 | 
+My first blog post created with Hugo
+</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://luoqigong.github.io/myblog.github.io/blog/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 13 Jul 2025 20:57:10 +0800</pubDate>
+      <guid>https://luoqigong.github.io/myblog.github.io/blog/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%B5%8B%E8%AF%95/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>开始我的博客</title>
+      <link>https://luoqigong.github.io/myblog.github.io/blog/first/</link>
+      <pubDate>Sun, 13 Jul 2025 20:16:43 +0800</pubDate>
+      <guid>https://luoqigong.github.io/myblog.github.io/blog/first/</guid>
+      <description>&lt;h1 id=&#34;第一篇博客&#34;&gt;第一篇博客&lt;/h1&gt;
+&lt;p&gt;作为一个新手，能够成功搭建自己的博客是一件非常值得庆祝的事情。
+这里可以不受平台限制，无需迎合算法，不用在意别人的喜好，随心所欲地记录自己的想法。&lt;/p&gt;
+&lt;p&gt;看过很多搭建博客的教程，wordpress、hexo等等，
+最终选择了Hugo+GitHub pages，一是号称世界上最快的静态网站生成器，二是据说简单易用生态也比较完善。当然少不了最关键的&amp;hellip;还是免费，哈哈哈。
+无需服务器，甚至无需域名，直接使用GitHub pages提供的域名。
+说干就干，有了决定千万不要拖。看的越多，想的越多，越迷茫。
+不管怎么样，搞起。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
